@@ -1,8 +1,8 @@
 
-https://github.com/user-attachments/assets/cd97538e-6b3e-4c81-a4d3-d1a0d4c73b74
 
 
-Uploading Screen Recording 2026-10-19 at 4.44.11 pm.mov… 
+
+
 
 Snowboardmania is a simple 2D game that is entertaining for all. Even if you don't snowboard, this fun game will be enjoyable as you dodge and jump over obstacles and try to score points along the way. Snowboardmania was created on Microsoft MakeCode Arcade and contains original code with inspiration from other video games such as Temple Run and Club Penguin Hydro Hopper mini game. If you're ready for a snowboarding adventure, click the link in line 12 and follow the easy steps below. 
 
